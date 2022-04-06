@@ -4,7 +4,7 @@
 
 ## Launch Project
 - Download and Install Unity Hub (https://unity3d.com/get-unity/download)
-- Install Unity version *2020.3.24f1*
+- Install Unity version **2020.3.24f1**
 - Open Unity project folder in Unity Hub
 
 
