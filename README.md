@@ -4,7 +4,7 @@
 
 ## Launch Project
 - Download and Install Unity Hub (https://unity3d.com/get-unity/download)
-- Install Unity version **2020.3.24f1**
+- Install Unity version **2020.3.24f1** (other versions might also work, not tested)
 - Open Unity project folder in Unity Hub
 
 
@@ -13,7 +13,7 @@
 - The Project Hierarchy shows all GameObjects. This includes th 2D\_Search, 3D\_Search and RandomSearch object.
 - Select any of the search algorithms.
 - The parameters for the search algorithm can be set in the Object Inspector on the right-hand side.
-- Set up the parameters and launch the algorithm by setting the RUN TEST boolean (check box) to $True$.
+- Set up the parameters and launch the algorithm by setting the RUN TEST boolean (check box) to *True*.
 
 ### Algorithm Paramerers:
  - robotModel 	(attach robot game object)
