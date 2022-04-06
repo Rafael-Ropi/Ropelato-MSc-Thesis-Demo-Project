@@ -3,7 +3,7 @@
 
 
 ## Launch Project
-- Download and Install Unity Hub (\href{https://unity3d.com/get-unity/download}{https://unity3d.com/get-unity/download})
+- Download and Install Unity Hub (https://unity3d.com/get-unity/download)
 - Install Unity version \textbf{2020.3.24f1}
 - Open Unity project folder in Unity Hub
 
